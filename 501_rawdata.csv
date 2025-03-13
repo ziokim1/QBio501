@@ -1,0 +1,10 @@
+﻿measurement,stimulus_strength,emg_amplitude,angle,latency,condition,emg,angle,latency,condition,latency
+1,13.69,1.169,4.517,31,Normal,0.2565,1.372,33,Normal,31
+2,11.56,0.8502,3.503,31,Normal,0.3755,2.411,33,Normal,31
+3,13.95,0.9959,3.772,31,Normal,0.4134,3.419,33,Normal,32
+4,8.869,0.5459,2.555,31,Jendrassik,1.716,7.082,32,Voluntary,30
+5,10.1,0.3687,1.973,31,Jendrassik,1.655,6.436,30,Voluntary,29
+,,,,,Jendrassik,1.221,5.599,32,Voluntary,29
+,,,,,,,,,Passive,NA
+,,,,,,,,,Passive,NA
+,,,,,,,,,Passive,NA
